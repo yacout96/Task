@@ -1,6 +1,6 @@
 ## User API Testing with RestAssured
 
-This project provides a framework for testing the User API using RestAssured. It utilizes a modular design and best practices for maintainability and clarity. The Projecy uses Maven, Java, JUnit and Eclipse IDE to support the framework. 
+This project provides a framework for testing the User API using RestAssured. It utilizes a POM like design pattern. The Project uses Maven, Java, JUnit and Eclipse IDE to support the framework. 
 
 **Project Structure:**
 
