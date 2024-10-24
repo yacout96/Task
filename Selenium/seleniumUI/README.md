@@ -1,4 +1,4 @@
-## Selenium Video Game Price Scraper
+## Shopping Simulation Selenium Framework
 
 **Description:**
 
